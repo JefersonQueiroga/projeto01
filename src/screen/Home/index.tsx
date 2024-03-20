@@ -18,9 +18,9 @@ export function Home() {
                     <Text>Enviar</Text>
                 </TouchableOpacity>
             </View>
-            <Item/>
-            <Item/>
-            <Item/>
+            <Item name="Jeferson" color='green'/>
+            <Item name="Carlos"/>
+            <Item name="Pedro"/>
 
 
         </View>
